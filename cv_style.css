@@ -8,7 +8,7 @@ body,html{
 
 .header, .content, .sidebar, .footer{
     
-    color: white;
+    color: blue;
     box-sizing: border-box;
 }
 
