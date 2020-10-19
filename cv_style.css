@@ -35,6 +35,15 @@ body,html{
 .sidebar{
     background-color:#9717ca;
     color:white;
+    
+}
+.sidebar > div{
+    
+    text-align: center;
+}
+div.progress{
+   margin: auto;
+    border: 2px red solid;
 }
 .footer{
     background-color: #2b2024;
